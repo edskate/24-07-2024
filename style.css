@@ -5,3 +5,14 @@ td{
     text-align: center;
     height: 50px ;
 }
+h1{
+    color: red;
+    text-shadow: 1px 1px 1px greenyellow;
+}
+body{
+    background-color: #000;
+}
+table{
+    margin: 50px;
+    
+}
