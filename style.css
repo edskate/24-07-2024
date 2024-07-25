@@ -16,3 +16,7 @@ table{
     margin: 50px;
     
 }
+b{
+    color: darkred;
+    text-shadow: 1px 1px 1px #000;
+}
